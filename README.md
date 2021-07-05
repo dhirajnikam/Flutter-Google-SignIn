@@ -3,6 +3,9 @@
 2.upload Sh1 to firebase for Google SignIn
 3.past the file in app floder
 
+#link of working project video
+- [Youtube Video](https://youtu.be/gcZC2Svfowk)
+
 
 ## Getting Started
 
