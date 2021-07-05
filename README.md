@@ -1,6 +1,8 @@
 # myapp
+1.setup firebase project
+2.upload Sh1 to firebase for Google SignIn
+3.past the file in app floder
 
-A new Flutter project.
 
 ## Getting Started
 
